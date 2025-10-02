@@ -1,5 +1,4 @@
-# .github
-2026RP电控组培训
+# 2026RP电控组培训
 
 <img align="left" src="https://github.com/rp2023EC/.github/blob/main/profile/src/header.png" />
 
